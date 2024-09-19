@@ -224,7 +224,7 @@ h6 {
 
 .header .header-toggle {
   color: var(--contrast-color);
-  background-color: var(--accent-color);
+  background-color: #9c0312;
   font-size: 22px;
   display: flex;
   align-items: center;
@@ -242,7 +242,7 @@ h6 {
 
 .header .header-toggle:hover {
   color: var(--contrast-color);
-  background-color: color-mix(in srgb, var(--accent-color) 90%, white 15%);
+  background-color: color-mix(in srgb, #9c0312 90%, white 15%);
 }
 
 /*--------------------------------------------------------------
